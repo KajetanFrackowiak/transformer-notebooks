@@ -1,1 +1,1 @@
-# Text_summarization model: https://huggingface.co/KajetanFrackowiak/pegasus-samsum
+Text_summarization model: https://huggingface.co/KajetanFrackowiak/pegasus-samsum
